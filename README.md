@@ -7,4 +7,4 @@ Data Engineer (Snowflake • AWS • Spark • Airflow)
 
 **Tech**: Snowflake, Snowpark (Py/JS), AWS (S3, EMR, Glue, MWAA, Step Functions), PySpark, DBT, Redshift
 
-**LinkedIn**: https://linkedin.com/in/… • **Email**: prathapboddu0121@gmail.com
+• **LinkedIn**: https://www.linkedin.com/in/prathapboddu/ • **Email**: prathapboddu0121@gmail.com
