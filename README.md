@@ -6,4 +6,4 @@ Data Engineer (Snowflake • AWS • Spark • Airflow)
 - 🏥 **Healthcare ETL:** Streams/Tasks/Snowpark stored procs, SCD2/CDC, encrypted EDI 834/837
 
 **Tech**: Snowflake, Snowpark (Py/JS), AWS (S3, EMR, Glue, MWAA, Step Functions), PySpark, DBT, Redshift  
-**Resume**: [PDF](./assets/Prathap_Boddu_Resume.pdf) • **LinkedIn**: https://linkedin.com/in/… • **Email**: me@…
+**Resume**: [PDF](./assets/Prathap_Boddu_Resume.pdf) • **LinkedIn**: https://linkedin.com/in/… • **Email**: prathapboddu0121@gmail.com
