@@ -1,67 +1,55 @@
-<!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0ea5e9&height=220&section=header&text=Prathap%20Boddu&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Data%20Engineer%20|%20Snowflake%20|%20AWS%20|%20Python&descAlignY=58&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0ea5e9&height=220&section=header&text=Prathap%20Boddu&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Data%20Engineer%20•%20Snowflake%20•%20AWS%20•%20GenAI%20Applications&descAlignY=58&descSize=16" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Prathap</h1>
-<h3 align="center">I build reliable, production-grade data platforms with measurable business impact.</h3>
+<h2 align="center">Building reliable data platforms today. Exploring GenAI products for tomorrow.</h2>
 
-<img align="right" alt="Data engineering" width="340" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDUzM2M0NzQwN2Y2M2UwMmQ0YTJhN2Q2YjY3YzRjMzFkN2EzM2Y5MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif" />
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=beprathap&label=Profile%20views&color=0e75b6&style=flat" alt="beprathap" />
-</p>
-
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/prathapboddu/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Prathap%20Boddu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Prathap%20Boddu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:prathapboddu0121@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://beprathap.github.io/prathap-portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Live-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-Live-111827?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
-- 🔭 Currently building scalable ingestion and transformation systems on **Snowflake + AWS**
-- 🌱 Focused on **Data Platform Reliability**, **DBT best practices**, and **streaming-ready architectures**
-- 🧠 Strong in **Python, SQL, PySpark, DBT, Airflow, CDC/SCD2, Medallion architecture**
-- 📈 Impact delivered: **24h → 15m SLA**, **250+ critical jobs improved**, **30–70% cost optimization**
-- 👨‍💻 Projects: [github.com/beprathap](https://github.com/beprathap)
-- 📫 Reach me: **prathapboddu0121@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/prathapboddu/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-  </a>
-  <a href="https://github.com/beprathap" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="30" width="40" />
-  </a>
-</p>
+### 🔭 Current Focus
+- Production-grade data engineering on **Snowflake + AWS**
+- Pipeline reliability, observability, and warehouse efficiency
+- Building practical **GenAI/RAG** workflows (see `customer-support-agent`)
+- Strengthening analytics engineering patterns with **DBT + orchestration**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="python"/></a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="aws"/></a>
-  <a href="https://www.snowflake.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/snowflake-2.svg" width="40" height="40" alt="snowflake"/></a>
-  <a href="https://www.getdbt.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getdbt/getdbt-icon.svg" width="40" height="40" alt="dbt"/></a>
-  <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" width="40" height="40" alt="spark"/></a>
-  <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/apache_airflow/apache_airflow-icon.svg" width="40" height="40" alt="airflow"/></a>
-  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="40" height="40" alt="kafka"/></a>
-  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="40" height="40" alt="terraform"/></a>
-</p>
+### 🧩 Selected Projects
+- [`prathap-portfolio`](https://github.com/beprathap/prathap-portfolio) — Personal portfolio (actively maintained)
+- [`customer-support-agent`](https://github.com/beprathap/customer-support-agent) — GenAI support assistant with RAG/FAISS workflow
+- [`airflow-dbt-snowflake`](https://github.com/beprathap/airflow-dbt-snowflake) — Orchestration + transformation setup
+- [`youtube-dataset`](https://github.com/beprathap/youtube-dataset) — End-to-end data pipeline project
+- [`sql-portfolio`](https://github.com/beprathap/sql-portfolio) — SQL problem solving and analytics patterns
 
-<h3 align="left">GitHub Stats:</h3>
+### 📈 Impact Snapshot
+- **24h → 15m** ingestion SLA improvement  
+- **250+** critical production jobs supported/improved  
+- **30–70%** warehouse cost optimization initiatives
+
+### 🛠️ Stack
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=beprathap&show_icons=true&locale=en&layout=compact" alt="top-langs" />
+  <img src="https://skillicons.dev/icons?i=python,aws,terraform,postgres,mysql,linux,git" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Snowflake-0EA5E9?style=flat-square&logo=snowflake&logoColor=white" />
+  <img src="https://img.shields.io/badge/DBT-FF694B?style=flat-square&logo=dbt&logoColor=white" />
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=beprathap&show_icons=true&locale=en" alt="stats" />
-</p>
+---
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=beprathap&" alt="streak" />
+<p align="center">
+  <i>Open to Senior / Lead Data Engineering roles and GenAI platform projects.</i>
 </p>
