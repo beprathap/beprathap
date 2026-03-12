@@ -1,33 +1,45 @@
-# Prathap Boddu
+<h1 align="center">Prathap Boddu</h1>
+<p align="center">
+  <b>Senior Data Engineer</b> • Snowflake • AWS • Python • DBT • PySpark
+</p>
 
-Senior Data Engineer focused on building reliable, scalable data platforms on **Snowflake** and **AWS**.
+<p align="center">
+  Building production-grade data platforms that scale with the business 📈
+</p>
 
-I work across ingestion, transformation, and warehouse optimization with a strong focus on delivery quality, performance, and business impact.
+---
 
-## Impact Highlights
-- Improved ingestion SLA from **24 hours to under 15 minutes**
-- Enhanced reliability across **250+ critical production jobs**
-- Built high-volume ingestion and reconciliation workflows for **5M+ daily records**
-- Reduced warehouse costs by **30-70%** through optimization and architecture improvements
+## 🚀 Snapshot
+- ⏱️ Improved ingestion SLA from **24 hours → under 15 minutes**
+- 🛠️ Strengthened **250+** critical production jobs
+- 📦 Built pipelines handling **5M+ records/day**
+- 💰 Delivered **30–70%** warehouse cost optimization
 
-## Core Stack
+## 🧠 Core Expertise
 `Snowflake` `AWS` `Python` `PySpark` `DBT` `Airflow` `Kafka` `Snowpark` `Terraform` `SQL`
 
-## Featured Projects
-- [YouTube Data Analysis Pipeline](https://github.com/beprathap/youtube-dataset) - Airflow + Python + S3/EMR analytics workflow
-- [Netflix KPIs on Snowflake + DBT](https://github.com/beprathap) - DBT modeling, incremental builds, and KPI reporting
-- [Heart Disease Prediction](https://github.com/beprathap/heartDiseasePrediction) - End-to-end ML classification workflow
-- [SQL Portfolio](https://github.com/beprathap/sql-portfolio) - Practical SQL problem-solving and analytics queries
+## 🏗️ Featured Work
+- 🎬 [YouTube Data Analysis Pipeline](https://github.com/beprathap/youtube-dataset)  
+  Airflow + Python + S3/EMR pipeline for large-scale engagement analytics
 
-## Certifications
-- SnowPro Advanced: Architect
-- SnowPro Core Certification
-- AWS Certified Cloud Practitioner
-- Google Cloud Associate Cloud Engineer
-- Databricks Generative AI Fundamentals
-- Databricks Data Fundamentals
+- 📊 [Netflix KPIs on Snowflake + DBT](https://github.com/beprathap)  
+  Production-style analytics engineering with incremental models and snapshots
 
-## Connect
-- Portfolio: https://beprathap.github.io/prathap-portfolio/
-- LinkedIn: https://www.linkedin.com/in/prathapboddu/
-- Email: prathapboddu0121@gmail.com
+- ❤️ [Heart Disease Prediction](https://github.com/beprathap/heartDiseasePrediction)  
+  End-to-end ML workflow for clinical risk classification
+
+- 🧩 [SQL Portfolio](https://github.com/beprathap/sql-portfolio)  
+  Practical SQL solutions for analytics and data engineering scenarios
+
+## 🏅 Certifications
+- SnowPro Advanced: Architect  
+- SnowPro Core Certification  
+- AWS Certified Cloud Practitioner  
+- Google Cloud Associate Cloud Engineer  
+- Databricks Generative AI Fundamentals  
+- Databricks Data Fundamentals  
+
+## 🤝 Connect
+- 🌐 Portfolio: https://beprathap.github.io/prathap-portfolio/
+- 💼 LinkedIn: https://www.linkedin.com/in/prathapboddu/
+- 📫 Email: prathapboddu0121@gmail.com
